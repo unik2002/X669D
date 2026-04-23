@@ -9,6 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_X669D.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_X669D-user \
-    twrp_X669D-userdebug \
     twrp_X669D-eng
